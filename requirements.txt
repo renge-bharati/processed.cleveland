@@ -1,0 +1,2 @@
+requests==2.32.3
+echo "requests==2.32.3" > requirements.txt
