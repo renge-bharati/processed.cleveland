@@ -1,2 +1,6 @@
-requests==2.32.3
-streamlit==1.40.1
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
